@@ -18,6 +18,6 @@ deploy:
  bucket-path: "g1-react"
  on:
   branch: master
- secure_key_id: AKIAUX4XYCC77XY5G7OM
- access_access_key: "ZrCCBLn+G/pxX0v4R2YV9WxUg4CRd0f+qFCfR0xi"
+ access_key_id: AKIAUX4XYCC77XY5G7OM
+ secure_access_key: "ZrCCBLn+G/pxX0v4R2YV9WxUg4CRd0f+qFCfR0xi"
 
